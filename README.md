@@ -1,24 +1,9 @@
-# README
+# moussaillon
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version
+Projet commencer mais pas terminé je fait que poster que les fiechier sur le github rien d'autre
 
-* System dependencies
+premier projet fini a 22h30 pas le temps de faire le deuxieme
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
